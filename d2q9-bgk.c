@@ -4,7 +4,7 @@
 ** 'q9' indicates 9 velocities per grid cell.
 ** 'bgk' refers to the Bhatnagar-Gross-Krook collision step.
 **
-** The 'speeds' in each cell are numbered as follows:
+** The 'speeds' in each cell are numbered as follows:ttt
 **
 ** 6 2 5
 **  \|/
